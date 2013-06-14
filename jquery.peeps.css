@@ -1,0 +1,5 @@
+.peeps {
+	min-width: 32px;
+	min-height: 32px;
+	background: transparent url(imgs/loading.gif) 50% 50% no-repeat;
+}
